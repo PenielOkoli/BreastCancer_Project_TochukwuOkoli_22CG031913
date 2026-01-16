@@ -2,6 +2,6 @@ Name: Tochukwu Okoli
 Matric Number: 22CG031913
 Machine Learning Algorithm Used: Logistic Regression
 Model persistence method used: Joblib
-Live URL of the hosted application: https://github.com/PenielOkoli/BreastCancer_Project_TochukwuOkoli_22CG031913
-GitHub repository link: [Paste GitHub Link]
+Live URL of the hosted application: https://breastcancerprojecttochukwuokoli22cg031913-inkxz48mibwweqhytic.streamlit.app/
+GitHub repository link: https://github.com/PenielOkoli/BreastCancer_Project_TochukwuOkoli_22CG031913
 
